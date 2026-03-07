@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LISTO"]
+	path = LISTO
+	url = https://github.com/andrei-stoica26/listo
 [submodule "henna"]
 	path = henna
 	url = https://github.com/andrei-stoica26/henna
